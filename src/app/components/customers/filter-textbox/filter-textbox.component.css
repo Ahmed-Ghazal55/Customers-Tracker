@@ -1,0 +1,12 @@
+label {
+    font: 1.5em 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4em 0;
+}
+
+input {
+    font-size: 1.3em;
+}
